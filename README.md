@@ -6,6 +6,7 @@
 
 - Python 3.8 или выше
 - Poetry
+- PostgreSQL
 
 ## Установка
 
